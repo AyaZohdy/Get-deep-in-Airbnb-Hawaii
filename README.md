@@ -17,3 +17,5 @@ Future data collection should include actual booking and occupancy records and i
 --
 - Data Manipulation: Excel and Power BI
 - Data Visualization: Power BI
+
+<img width="1276" height="714" alt="Get Deep In Airbnb Hawaii" src="https://github.com/user-attachments/assets/3c111300-b242-4ea7-a69a-f520a0e00923" />
