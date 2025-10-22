@@ -11,7 +11,7 @@ To get proper decision for invest should study the destination well because ther
 
 ● Recommendation: 
 --
-Future data collection should include actual booking and occupancy records and incorporate detailed about the total number of rooms. This will improve the add more depth to the resultes.
+Future data collection should include actual booking and occupancy records and incorporate details about the total number of rooms. This will improve and add more depth to the results.
 
 ● Dependencies: 
 --
